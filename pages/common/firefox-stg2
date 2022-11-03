@@ -8,4 +8,5 @@
 - SHIFT+ALT+F   Financial/Medical
 - SHIFT+ALT+R   Research
 - SHIFT+ALT+<-	Previous
-- SHIFT+ALT+->  Next
+
+\033[34mSHIFT+ALT+->\033[m  Next
