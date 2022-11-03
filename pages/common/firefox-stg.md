@@ -2,7 +2,7 @@
 
 - SHIFT+ALT+D   Default
 
-\033[31mSHIFT+ALT+N\033[m   News
+\033[31;1;4mSHIFT+ALT+N\033[0m News
 
 - SHIFT+ALT+S   Shopping
 - SHIFT+ALT+F   Financial/Medical
