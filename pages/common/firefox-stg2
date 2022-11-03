@@ -6,7 +6,9 @@
 
 - SHIFT+ALT+S   Shopping
 - SHIFT+ALT+F   Financial/Medical
-- SHIFT+ALT+R   Research
+
+\x1b[31mSHIFT+ALT+R\x1b[37m   Research
+
 - SHIFT+ALT+<-	Previous
 
 \033[34mSHIFT+ALT+->\033[m  Next
