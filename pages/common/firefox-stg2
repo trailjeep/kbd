@@ -18,3 +18,5 @@
 {1curl https://}{2cheat.sh}{1/tar}
 
 \u1b[31mtest\033[ming\n
+
+[[38;5;248;03m# List the groups in an inventory:^[[39;00m
