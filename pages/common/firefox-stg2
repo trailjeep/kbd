@@ -16,3 +16,5 @@
 \033[34mSHIFT+ALT+->\033[m  Next
 
 {1curl https://}{2cheat.sh}{1/tar}
+
+\u1b[31mtest\033[ming\n
