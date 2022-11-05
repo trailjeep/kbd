@@ -1,6 +1,6 @@
 # terminal
 
-> Bash keyboard shortcuts
+> Bash keyboard shortcuts  
 > More information: <https://www.gnu.org/software/bash/>.
 
 - <kbd>CTRL</kbd>+<kbd>U</kbd>    Clear before cursor
