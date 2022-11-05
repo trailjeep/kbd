@@ -1,8 +1,8 @@
 # mc
 
 > GNU Midnight Commander
-> Visual 2-pane file manager
-> More information: <https://midnight-commander.org/>.
+>> Visual 2-pane file manager
+>>> More information: <https://midnight-commander.org/>.
 
 |Shortcut|Description|
 |:--|:--|
