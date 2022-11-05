@@ -6,5 +6,5 @@
 
 |Shortcut|Description|
 |:--|:--|
-| <kbd>F2</kbd> | Toggle on/off globally |
-| <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>D</kbd> | Toggle on/off per tab |
+|<kbd>F2</kbd>|Toggle on/off globally|
+|<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>D</kbd>|Toggle on/off per tab|
