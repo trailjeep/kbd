@@ -17,6 +17,7 @@ Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 
 ## Syntax
 Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+
 Note: `☐☐` represents 2 spaces for GitHub newline.
 ```
 # CHEAT_NAME
