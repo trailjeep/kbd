@@ -47,7 +47,7 @@ Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
     └── android    (android app shortcuts go here - probably unused)
 ```
 
-## Syntax
+## Template
 
 Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 
