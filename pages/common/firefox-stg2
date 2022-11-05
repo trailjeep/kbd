@@ -11,7 +11,7 @@
 
 \x1b[31mSHIFT+ALT+R\x1b[37m   Research
 
-- SHIFT+ALT+<-	Previous
+`SHIFT`+`ALT`+<-	Previous
 
 \033[34mSHIFT+ALT+->\033[m  Next
 
