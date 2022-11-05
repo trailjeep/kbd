@@ -11,3 +11,4 @@
 - <kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>R</kbd>  Research
 - <kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>←</kbd>  Previous
 - <kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>→</kbd>  Next
+
