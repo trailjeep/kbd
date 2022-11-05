@@ -1,5 +1,5 @@
 # Firefox Extension: Simple Tab Groups
->
+>  
 - <kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>D</kbd>  Default
 - <kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>N</kbd>  News
 - <kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>S</kbd>  Shopping
