@@ -4,7 +4,7 @@ Personal Keyboard Shortcuts repository for use with cheat.sh standalone install.
 
 ## Install
 
-Install standalone [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
+Install [chubin/cheat.sh](https://github.com/chubin/cheat.sh/blob/master/doc/standalone.md) standalone
 
 Copy kbd.py [kbd.py](lib/adapter/kbd.py) to `$HOME/.cheat.sh/lib/adapter/`
 
