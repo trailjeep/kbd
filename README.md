@@ -9,7 +9,7 @@ Install standalone [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
 copy kbd.py to .cheat.sh/lib/adapter/
 
 add to .cheat.sh/lib/config.py
-```json
+```
 ...
 _CONFIG = {
     "adapters.active": [
