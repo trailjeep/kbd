@@ -3,7 +3,7 @@
 Personal Keyboard Shortcuts repository for use with cheat.sh standalone install.
 
 ## Organization
-Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)]
+Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 ```
 └── pages
     ├── custom     (custom/redefined app shortcuts go here)
@@ -16,4 +16,18 @@ Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)]
 ```
 
 ## Syntax
-Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)]
+Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+Note: `☐☐` represents 2 spaces for GitHub newline.
+```
+# CHEAT_NAME
+
+> FULL_NAME☐☐
+> DESCRIPTION☐☐
+> More information: <URL>.
+
+|Shortcut|Description|
+|:--|:--|
+|<kbd>KEY1</kbd>|FUNCTION|
+|<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY2</kbd>|FUNCTION|
+```
+
