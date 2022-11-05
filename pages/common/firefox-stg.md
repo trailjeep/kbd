@@ -1,11 +1,9 @@
 # Firefox Extension: Simple Tab Groups
 
-- SHIFT+ALT+D   Default
-
-\033[31;1;4mSHIFT+ALT+N\033[0m News
-
-- SHIFT+ALT+S   Shopping
-- SHIFT+ALT+F   Financial/Medical
-- SHIFT+ALT+R   Research
-- SHIFT+ALT+<-	Previous
-- SHIFT+ALT+->  Next
+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>D</kbd>  Default
+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>N</kbd>  News
+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>S</kbd>  Shopping
+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>F</kbd>  Financial/Medical
+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>R</kbd>  Research
+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>←</kbd>  Previous
+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>→</kbd>  Next
