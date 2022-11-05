@@ -32,6 +32,10 @@ Perform after any repo updates:
 ```
 $HOME/.cheat.sh/ve/bin/python /home/jeff/.cheat.sh/lib/fetch.py update-all
 ```
+## Usage
+```
+cht.sh kbd:APP
+```
 
 ## Organization
 
