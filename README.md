@@ -6,9 +6,9 @@ Personal Keyboard Shortcuts repository for use with cheat.sh standalone install.
 
 Install standalone [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
 
-copy kbd.py [kbd.py](lib/adapter/kbd.py) to `$HOME/.cheat.sh/lib/adapter/`
+Copy kbd.py [kbd.py](lib/adapter/kbd.py) to `$HOME/.cheat.sh/lib/adapter/`
 
-add to .cheat.sh/lib/config.py
+add to `$HOME/.cheat.sh/lib/config.py`
 ```
 ...
 _CONFIG = {
@@ -26,11 +26,11 @@ _CONFIG = {
 
 Perform once to initialize:
 ```
-$HOME/.cheat.sh/ve/bin/python /home/jeff/.cheat.sh/lib/fetch.py fetch-all
+$HOME/.cheat.sh/ve/bin/python $HOME/.cheat.sh/lib/fetch.py fetch-all
 ```
 Perform after any repo updates:
 ```
-$HOME/.cheat.sh/ve/bin/python /home/jeff/.cheat.sh/lib/fetch.py update-all
+$HOME/.cheat.sh/ve/bin/python $HOME/.cheat.sh/lib/fetch.py update-all
 ```
 ## Usage
 ```
