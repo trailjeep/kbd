@@ -37,12 +37,12 @@ $HOME/.cheat.sh/ve/bin/python $HOME/.cheat.sh/lib/fetch.py update-all
 
 All cheatsheets for app including keyboard:
 ```
-cht.sh APP
+cht.sh {APP}
 ```
 
 Only keyboard cheat sheet for app:
 ```
-cht.sh kbd:APP
+cht.sh kbd:{APP}
 ```
 
 ## Organization
@@ -51,7 +51,10 @@ Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 ```
 └── pages
     ├── custom     (custom/redefined app shortcuts go here)
+        └── APP1.md
     ├── common     (os agnostic app shortcuts go here)
+        ├── APP2.md
+        └── APP3.md
     ├── linux      (linux app shortcuts go here)
     ├── osx        (osx app shortcuts go here)
     ├── sunos      (sunos app shortcuts go here)
