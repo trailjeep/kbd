@@ -35,6 +35,12 @@ $HOME/.cheat.sh/ve/bin/python $HOME/.cheat.sh/lib/fetch.py update-all
 
 ## Usage
 
+All cheatsheets for app including keyboard:
+```
+cht.sh APP
+```
+
+Only keyboard cheat sheet for app:
 ```
 cht.sh kbd:APP
 ```
