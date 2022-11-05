@@ -4,4 +4,4 @@
 > Visual 2-pane file manager
 > More information: <https://midnight-commander.org/>.
 
-- <kbd>ALT</kbd>+<kbd>SHIFT</kbd>+{{=}}  Select all
+- <kbd>ALT</kbd>+<kbd>SHIFT</kbd>+<kbd>=</kbd>  Select all
