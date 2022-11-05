@@ -68,3 +68,8 @@ Note: `☐☐` represents 2 spaces for GitHub newline.
 |<kbd>KEY1</kbd>|FUNCTION|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY2</kbd>|FUNCTION|
 ```
+
+## Acknowledgments
+
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
