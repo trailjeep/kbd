@@ -1,7 +1,7 @@
 # firefox
 
-> Firefox
-> No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn’t sell you out.
+> Firefox  
+> No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn’t sell you out.  
 > More information: <https://www.mozilla.org/en-US/firefox/new/>.
 
 |Shortcut|Description|
