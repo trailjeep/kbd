@@ -26,11 +26,11 @@ _CONFIG = {
 
 Perform once to initialize:
 ```
-/home/jeff/.cheat.sh/ve/bin/python /home/jeff/.cheat.sh/lib/fetch.py fetch-all
+$HOME/.cheat.sh/ve/bin/python /home/jeff/.cheat.sh/lib/fetch.py fetch-all
 ```
 Perform after any repo updates:
 ```
-/home/jeff/.cheat.sh/ve/bin/python /home/jeff/.cheat.sh/lib/fetch.py update-all
+$HOME/.cheat.sh/ve/bin/python /home/jeff/.cheat.sh/lib/fetch.py update-all
 ```
 
 ## Organization
