@@ -21,7 +21,7 @@ _CONFIG = {
         ("", "kbd"),
 ...
 ```
-4. Perform once to initialize:
+4. Initialize:
 ```
 $HOME/.cheat.sh/ve/bin/python $HOME/.cheat.sh/lib/fetch.py fetch-all
 ```
