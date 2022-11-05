@@ -2,7 +2,7 @@
 
 <p style="color:red;">testing</p>
 
-- SHIFT+ALT+D   Default
+<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>D</kbd>   Default
 
 \033[31;1;4mSHIFT+ALT+N\033[0m News
 
