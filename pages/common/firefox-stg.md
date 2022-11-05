@@ -6,7 +6,6 @@
 
 |Shortcut|Description|
 |:--|:--|
-|<kbd>F2</kbd>|Toggle on/off globally|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>D</kbd>|Default|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>N</kbd>|News|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>S</kbd>|Shopping|
