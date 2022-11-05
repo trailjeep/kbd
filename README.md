@@ -7,7 +7,7 @@ Personal Keyboard Shortcuts repository for use with cheat.sh standalone install.
 1. Install [chubin/cheat.sh](https://github.com/chubin/cheat.sh/blob/master/doc/standalone.md) standalone
 2. Copy kbd.py [kbd.py](lib/adapter/kbd.py) to `$HOME/.cheat.sh/lib/adapter/`
 3. Add to `$HOME/.cheat.sh/lib/config.py`
-    ```
+```
 ...
 _CONFIG = {
     "adapters.active": [
@@ -21,16 +21,20 @@ _CONFIG = {
         ("", "kbd"),
 ...
 ```
-
-Perform once to initialize:
+4. Perform once to initialize:
 ```
 $HOME/.cheat.sh/ve/bin/python $HOME/.cheat.sh/lib/fetch.py fetch-all
 ```
-Perform after any repo updates:
+
+## Update
+
+1. Perform after any repo updates:
 ```
 $HOME/.cheat.sh/ve/bin/python $HOME/.cheat.sh/lib/fetch.py update-all
 ```
+
 ## Usage
+
 ```
 cht.sh kbd:APP
 ```
