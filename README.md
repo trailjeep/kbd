@@ -23,6 +23,16 @@ _CONFIG = {
         ("", "kbd"),
 ...
 ```
+
+Perform once to initialize:
+```
+/home/jeff/.cheat.sh/ve/bin/python /home/jeff/.cheat.sh/lib/fetch.py fetch-all
+```
+Perform after any repo updates:
+```
+/home/jeff/.cheat.sh/ve/bin/python /home/jeff/.cheat.sh/lib/fetch.py update-all
+```
+
 ## Organization
 
 Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
