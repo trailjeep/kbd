@@ -2,7 +2,29 @@
 
 Personal Keyboard Shortcuts repository for use with cheat.sh standalone install.
 
+## Install
+
+Install standalone [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
+
+copy kbd.py to .cheat.sh/lib/adapter/
+
+add to .cheat.sh/lib/config.py
+```json
+...
+_CONFIG = {
+    "adapters.active": [
+        "tldr",
+        "kbd",
+...
+    "routing.main": [
+        ("", "cheat.sheets"),
+        ("", "cheat"),
+        ("", "tldr"),
+        ("", "kbd"),
+...
+```
 ## Organization
+
 Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 ```
 └── pages
@@ -16,6 +38,7 @@ Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 ```
 
 ## Syntax
+
 Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 
 Note: `☐☐` represents 2 spaces for GitHub newline.
@@ -31,4 +54,3 @@ Note: `☐☐` represents 2 spaces for GitHub newline.
 |<kbd>KEY1</kbd>|FUNCTION|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY2</kbd>|FUNCTION|
 ```
-
