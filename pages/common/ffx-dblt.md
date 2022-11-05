@@ -1,4 +1,4 @@
-# firefox-dblt
+# ffx-dblt
 
 > Firefox Extension: Dark Background and Light Text  
 > Make every web page (or just the pages you want) display light text on dark backgrounds. All color variations are fully customizable.  
