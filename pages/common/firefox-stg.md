@@ -1,7 +1,7 @@
 # firefox-stg
 
-> Firefox Extension: Simple Tab Groups
-> Create, modify, and quickly change tab groups
+> Firefox Extension: Simple Tab Groups  
+> Create, modify, and quickly change tab groups  
 > More information: <https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/>.
 
 |Shortcut|Description|
