@@ -1,7 +1,7 @@
 # CHEAT_NAME
 
-> FULL_NAME☐☐
-> DESCRIPTION☐☐
+> FULL_NAME☐☐  
+> DESCRIPTION☐☐  
 > More information: <URL>.
 
 |Shortcut|Description|
