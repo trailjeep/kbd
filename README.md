@@ -20,7 +20,7 @@ _CONFIG = {
         ("", "tldr"),
         ("", "kbd"),
 ...
-   ```
+```
 
 Perform once to initialize:
 ```
