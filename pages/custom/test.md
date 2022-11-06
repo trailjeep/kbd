@@ -1,6 +1,5 @@
-# test
+# Test
 
-> Test  
 > Performs testing  
 > More information: <http://example.org/>.
 
