@@ -4,7 +4,14 @@
 > DESCRIPTION☐☐
 > More information: <URL>.
 
+## Optional Section
 |Shortcut|Description|
 |:--|:--|
 |<kbd>KEY1</kbd>|FUNCTION|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY2</kbd>|FUNCTION|
+
+## Optional Section
+|Shortcut|Description|
+|:--|:--|
+|<kbd>KEY3</kbd>|FUNCTION|
+|<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY4</kbd>|FUNCTION|
