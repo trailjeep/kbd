@@ -68,9 +68,8 @@ Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 
 Note: `☐☐` represents 2 spaces for GitHub newline.
 ```
-# CHEAT_NAME
+# APP_NAME
 
-> FULL_NAME☐☐
 > DESCRIPTION☐☐
 > More information: <URL>.
 
