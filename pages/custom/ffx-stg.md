@@ -1,5 +1,5 @@
 # ffx-stg
-|Meta||
+|||
 |:--|:--|
 |Title|Firefox Extension: Simple Tab Groups|
 |Description|Create, modify, and quickly change tab groups|
