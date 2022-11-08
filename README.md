@@ -45,6 +45,18 @@ Only keyboard cheat sheet for app:
 cht.sh kbd:{APP}
 ```
 
+### Aliases / Functions
+
+```
+if $(command -v cht.sh >/dev/null 2>&1); then
+    alias cht='cht.sh'
+    kbd() {
+        cht.sh kbd:"$1"
+    }
+    alias kbdl='find $HOME/.cheat.sh/upstream/keyboard/ -name "*.md" -printf "%f\n" | sed "s/.md//"' # awk 'BEGIN {FS="."};{print $1}'                
+fi
+```
+
 ## Organization
 
 Mostly follows: [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
