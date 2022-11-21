@@ -91,6 +91,7 @@ Note: `☐☐` represents 2 spaces for GitHub newline.
 |<kbd>KEY1</kbd>|FUNCTION|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY2</kbd>|FUNCTION|
 |<kbd>1</kbd> - <kbd>9</kbd>|Range of functions (skip to chapter 1-9)
+|<kbd>SPACE</kbd>, <kbd>K</kbd>|Toggle play/pause (separate keys/same function)|
 
 ## Optional Section
 |Shortcut|Description|
@@ -111,6 +112,7 @@ Note: `☐☐` represents 2 spaces for GitHub newline.
 |<kbd>KEY1</kbd>|FUNCTION|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY2</kbd>|FUNCTION|
 |<kbd>1</kbd>-<kbd>9</kbd>|Range of functions (skip to chapter 1-9)
+|<kbd>SPACE</kbd>, <kbd>K</kbd>|Toggle play/pause (separate keys/same function)|
 
 ## Optional Section
 |Shortcut|Description|
