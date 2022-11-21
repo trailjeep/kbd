@@ -4,9 +4,8 @@
 
 |Shortcut|Description|
 |:--|:--|
-|<kbd>SPACE</kbd>|Play/Pause|
-|<kbd>K</kbd>|Pause/Play|
-|<kbd>M</kbd>|Mute/unmute|
+|<kbd>SPACE</kbd>, <kbd>K</kbd>|Toggle play/pause|
+|<kbd>M</kbd>|Toggle mute|
 |<kbd>LEFT</kbd> / <kbd>RIGHT</kbd>|Seek backward/forward 5 seconds|
 |<kbd>J</kbd> / <kbd>L</kbd>|Back/forward 10 seconds in player.|
 |<kbd>.</kbd> / <kbd>,</kbd>|@Paused next/previous frame|
