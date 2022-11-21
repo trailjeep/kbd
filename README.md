@@ -90,13 +90,14 @@ Note: `☐☐` represents 2 spaces for GitHub newline.
 |:--|:--|
 |<kbd>KEY1</kbd>|FUNCTION|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY2</kbd>|FUNCTION|
-|<kbd>1</kbd>-<kbd>9</kbd>|Range of functions (skip to chapter 1-9)
+|<kbd>1</kbd> - <kbd>9</kbd>|Range of functions (skip to chapter 1-9)
 
 ## Optional Section
 |Shortcut|Description|
 |:--|:--|
 |<kbd>KEY3</kbd>|FUNCTION|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY4</kbd>|FUNCTION|
+|<kbd>CTRL</kbd>+<kbd>RIGHT</kbd> / <kbd>CTRL</kbd>+<kbd>LEFT</kbd>|Previous/Next chapter (consolidate when possible)|
 ```
 ---
 # APP_NAME
@@ -116,6 +117,7 @@ Note: `☐☐` represents 2 spaces for GitHub newline.
 |:--|:--|
 |<kbd>KEY3</kbd>|FUNCTION|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY4</kbd>|FUNCTION|
+|<kbd>CTRL</kbd>+<kbd>RIGHT</kbd> / <kbd>CTRL</kbd>+<kbd>LEFT</kbd>|Previous/Next chapter (consolidate when possible)|
 ---
 
 
