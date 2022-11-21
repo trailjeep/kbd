@@ -26,5 +26,5 @@
 |<kbd>F</kbd>|Toggle full screen.|
 |<kbd>C</kbd>|Toggle closed captions and subtitles if available|
 |<kbd>SHIFT</kbd>+<kbd>N</kbd>|Next playlist/suggested video.|
-|<kbd>SHIFT</kbd>+</kbd>P</kbd>|Previous playlist (only) video.|
+|<kbd>SHIFT</kbd>+<kbd>P</kbd>|Previous playlist (only) video.|
 |<kbd>I</kbd>|Open the Miniplayer.|
