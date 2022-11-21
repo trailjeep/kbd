@@ -1,6 +1,5 @@
-# ffx-vsp
+# Firefox Extension: Video Speed Controller
 
-> Firefox Extension: Video Speed Controller  
 > Speed up, slow down, advance and rewind any HTML5 video with quick shortcuts.  
 > More information: <https://addons.mozilla.org/en-US/firefox/addon/videospeed/>.
 
