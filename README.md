@@ -101,7 +101,7 @@ Note: `☐☐` represents 2 spaces for GitHub newline.
 ---
 # APP_NAME
 
-> DESCRIPTION☐☐
+> DESCRIPTION  
 > More information: <URL>.
 
 ## Optional Section
