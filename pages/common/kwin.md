@@ -1,5 +1,5 @@
 # KWin
-> DESCRIPTION☐☐
+> DESCRIPTION  
 > More information: <URL>.
 
 ## Optional Section
