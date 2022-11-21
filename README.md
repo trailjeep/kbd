@@ -98,6 +98,26 @@ Note: `☐☐` represents 2 spaces for GitHub newline.
 |<kbd>KEY3</kbd>|FUNCTION|
 |<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY4</kbd>|FUNCTION|
 ```
+---
+# APP_NAME
+
+> DESCRIPTION☐☐
+> More information: <URL>.
+
+## Optional Section
+|Shortcut|Description|
+|:--|:--|
+|<kbd>KEY1</kbd>|FUNCTION|
+|<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY2</kbd>|FUNCTION|
+|<kbd>1</kbd>-<kbd>9</kbd>|Range of functions (skip to chapter 1-9)
+
+## Optional Section
+|Shortcut|Description|
+|:--|:--|
+|<kbd>KEY3</kbd>|FUNCTION|
+|<kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>KEY4</kbd>|FUNCTION|
+---
+
 
 ## Acknowledgments
 
