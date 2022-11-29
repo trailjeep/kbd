@@ -1,11 +1,9 @@
 # GNU Screen
-> A terminal multiplexer that can be used to multiplex several virtual  
+> Terminal multiplexer that can be used to multiplex several virtual  
 > consoles, allowing a user to access multiple separate login sessions  
 > inside a single terminal window, or detach and reattach sessions from  
-> a terminal. It is useful for dealing with multiple programs from a  
-> CLI, and for separating programs from the session of the Unix shell  
-> that started the program, particularly so a remote process continues  
-> running even when the user is disconnected.  
+> a terminal.  Useful for continuing remote processes when the user  
+> is disconnected.  
 > More information: <https://www.gnu.org/software/screen/>.
 
 |Shortcut|Description|
