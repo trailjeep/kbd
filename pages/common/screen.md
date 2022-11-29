@@ -16,7 +16,7 @@
 |<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>P</kbd>|Go to previous screen|
 |<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>SHIFT</kbd>+<kbd>S</kbd>|Split screen horizontally|
 |<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>SHIFT</kbd>+<kbd>\</kbd>|Split screen vertically|
-|<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>TAB</kbd>|Traverse between splited screens|
+|<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>TAB</kbd>|Traverse split screens|
 |<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>SHIFT</kbd>+<kbd>X</kbd>|Unsplit screens|
 |<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>ESC</kbd>|Scroll screen (ESC to end)|
 |<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>D|Detach screens|
