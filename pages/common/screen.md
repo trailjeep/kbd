@@ -8,7 +8,6 @@
 > running even when the user is disconnected.  
 > More information: <https://www.gnu.org/software/screen/>.
 
-## Optional Section
 |Shortcut|Description|
 |:--|:--|
 |<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>C</kbd>|Create new screen|
