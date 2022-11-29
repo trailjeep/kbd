@@ -5,7 +5,7 @@
 > a terminal. It is useful for dealing with multiple programs from a  
 > CLI, and for separating programs from the session of the Unix shell  
 > that started the program, particularly so a remote process continues  
-> running even when the user is disconnected.
+> running even when the user is disconnected.  
 > More information: <https://www.gnu.org/software/screen/>.
 
 ## Optional Section
