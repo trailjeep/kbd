@@ -16,5 +16,5 @@
 |<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>TAB</kbd>|Traverse split screens|
 |<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>SHIFT</kbd>+<kbd>X</kbd>|Unsplit screens|
 |<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>ESC</kbd>|Scroll screen (ESC to end)|
-|<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>D|Detach screens|
-
+|<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>D</kbd>|Detach screens|
+|<kbd>CTRL</kbd>+<kbd>A</kbd>-><kbd>K</kbd>|Kill current screen session|
